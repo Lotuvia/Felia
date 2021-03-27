@@ -1,0 +1,2 @@
+C:\Users\green\Documents\git_init\c++\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\green\Documents\git_init\c++\ConsoleApplication1\Debug\ConsoleApplication1.pdb

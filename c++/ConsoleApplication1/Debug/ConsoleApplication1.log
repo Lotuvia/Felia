@@ -1,3 +1,3 @@
 ﻿  ConsoleApplication1.cpp
-C:\Users\green\Documents\git_init\c++\ConsoleApplication1\ConsoleApplication1.cpp(35,9): warning C4101: tm_year: неиспользованная локальная переменная
-  ConsoleApplication1.vcxproj -> C:\Users\green\Documents\git_init\c++\ConsoleApplication1\Debug\ConsoleApplication1.exe
+C:\Users\green\Documents\git_init\c++\ConsoleApplication1\ConsoleApplication1.cpp(17,17): error C2228: выражение слева от ".push" должно представлять класс, структуру или объединение
+C:\Users\green\Documents\git_init\c++\ConsoleApplication1\ConsoleApplication1.cpp(17,17): message : тип: int

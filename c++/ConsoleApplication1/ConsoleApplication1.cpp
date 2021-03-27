@@ -47,6 +47,7 @@ int main()
     int year = st.wYear % 100;
     int code = x + year;
     std::cout << "not unique code = " << code << std::endl;
-
+    cin.get();
+    system("PAUSE");
     return 0;
 }

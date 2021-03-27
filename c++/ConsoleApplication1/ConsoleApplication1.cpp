@@ -38,8 +38,6 @@ int main()
 
     {
         int j = 0;
-
-
         if (box[j] == 0)
         {
         }
